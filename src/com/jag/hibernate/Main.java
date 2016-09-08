@@ -8,6 +8,7 @@ import org.hibernate.cfg.AnnotationConfiguration;
 
 public class Main {
 
+	
 	public static void main(String[] args) {
 		
 		Student_Info info = new Student_Info();
